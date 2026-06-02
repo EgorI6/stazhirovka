@@ -103,5 +103,10 @@ ADMIN_PASSWORD=change_me
 
 При первом запуске приложение инициализирует SQLite-схему автоматически. В базе хранятся пользователи, компании, стажировки, направления, отклики, история этапов и отзывы. Для демонстрации предусмотрены стартовые данные, чтобы сайт можно было открыть и сразу проверить основные сценарии.
 ## Отчёт
-
+Иванов Егор
 📄 [Открыть Google Документ](https://docs.google.com/document/d/1Byzi6G8A7mArTqZ_k_IOs-0zB-oyP1ic/edit?usp=sharing&ouid=101884061840920255015&rtpof=true&sd=true)
+Высоков Владимир
+📄 [Открыть Google Документ](https://docs.google.com/document/d/1c9jmSQOS5FgBWY1MFnR-ykTw-Qc58Hl-/edit?usp=sharing&ouid=101884061840920255015&rtpof=true&sd=true)
+Ильин Андрей
+📄 [Открыть Google Документ](https://docs.google.com/document/d/1gRQ9RyXVXlZVS7B_XJjnoBhsVY8QoEPY/edit?usp=sharing&ouid=101884061840920255015&rtpof=true&sd=true)
+
